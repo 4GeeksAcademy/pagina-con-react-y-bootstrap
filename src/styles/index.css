@@ -1,12 +1,9 @@
+.bg-gray-300 {
+    background-color: rgba(209, 213, 219, 0.5); /* Fondo gris con 50% de transparencia */
+}
 
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.jumbotron-background {
+    background-image: url('https://content.nationalgeographic.com.es/medio/2024/07/31/tahiti-gabriel-medina-surf_5b22ee37_240731105319_2000x1334.jpg');
+    background-size: cover;
+    background-position: center;
+}
